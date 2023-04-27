@@ -1,0 +1,12 @@
+x implementar funcion de infinity scroll
+x darle estilo al header del modal
+x añadir categorias
+xx cambiar interrogante
+
+xxxx comprobar errores en build y preview
+
+el numero de x indica el numero de importancia  al momento de indicacion
+
+hecho: 
+- xx en la busqueda, permitir mayusculas y minusculas
+- xxx dar modal en busqueda
